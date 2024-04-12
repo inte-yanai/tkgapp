@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648553014720",
+    "project_id": "tkgapp-869f1",
+    "storage_bucket": "tkgapp-869f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648553014720:android:77dd20b3f93a84231c1425",
+        "android_client_info": {
+          "package_name": "com.example.tkgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFmjfsmR5i-B0DIBHMROu-c933YXNLTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
